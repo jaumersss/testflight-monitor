@@ -1,16 +1,16 @@
 {
   "https://testflight.apple.com/join/1SyedSId": {
-    "checked_at": "2026-06-25T19:45:41+00:00",
+    "checked_at": "2026-06-25T20:00:51+00:00",
     "final_url": "https://testflight.apple.com/join/1SyedSId",
     "http_status": 200,
-    "last_changed_at": "2026-06-25T12:30:55+00:00",
+    "last_changed_at": "2026-06-25T20:00:51+00:00",
     "name": "Spotify: Music and Podcasts beta",
-    "reason": "Patron encontrado: this beta is full",
-    "status": "full",
+    "reason": null,
+    "status": "open",
     "url": "https://testflight.apple.com/join/1SyedSId"
   },
   "https://testflight.apple.com/join/72eyUWVE": {
-    "checked_at": "2026-06-25T19:45:41+00:00",
+    "checked_at": "2026-06-25T20:00:52+00:00",
     "final_url": "https://testflight.apple.com/join/72eyUWVE",
     "http_status": 200,
     "last_changed_at": "2026-05-24T05:20:32+00:00",
@@ -20,7 +20,7 @@
     "url": "https://testflight.apple.com/join/72eyUWVE"
   },
   "https://testflight.apple.com/join/YcmGWyxV": {
-    "checked_at": "2026-06-25T19:45:41+00:00",
+    "checked_at": "2026-06-25T20:00:52+00:00",
     "final_url": "https://testflight.apple.com/join/YcmGWyxV",
     "http_status": 200,
     "last_changed_at": "2026-06-25T10:30:50+00:00",
@@ -30,7 +30,7 @@
     "url": "https://testflight.apple.com/join/YcmGWyxV"
   },
   "https://testflight.apple.com/join/oscYikr0": {
-    "checked_at": "2026-06-25T19:45:41+00:00",
+    "checked_at": "2026-06-25T20:00:51+00:00",
     "final_url": "https://testflight.apple.com/join/oscYikr0",
     "http_status": 200,
     "last_changed_at": "2026-06-20T03:15:38+00:00",
@@ -40,7 +40,7 @@
     "url": "https://testflight.apple.com/join/oscYikr0"
   },
   "https://testflight.apple.com/join/p7hGbZUR": {
-    "checked_at": "2026-06-25T19:45:41+00:00",
+    "checked_at": "2026-06-25T20:00:52+00:00",
     "final_url": "https://testflight.apple.com/join/p7hGbZUR",
     "http_status": 200,
     "last_changed_at": "2026-06-25T17:15:37+00:00",
@@ -50,13 +50,13 @@
     "url": "https://testflight.apple.com/join/p7hGbZUR"
   },
   "https://testflight.apple.com/join/u6iogfd0": {
-    "checked_at": "2026-06-25T19:45:41+00:00",
+    "checked_at": "2026-06-25T20:00:50+00:00",
     "final_url": "https://testflight.apple.com/join/u6iogfd0",
     "http_status": 200,
-    "last_changed_at": "2026-06-25T17:31:10+00:00",
+    "last_changed_at": "2026-06-25T20:00:50+00:00",
     "name": "Telegram Messenger beta",
-    "reason": "Patron encontrado: this beta is full",
-    "status": "full",
+    "reason": null,
+    "status": "open",
     "url": "https://testflight.apple.com/join/u6iogfd0"
   }
 }
