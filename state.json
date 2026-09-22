@@ -1,26 +1,26 @@
 {
   "https://testflight.apple.com/join/1SyedSId": {
-    "checked_at": "2026-09-22T10:46:00+00:00",
-    "final_url": null,
-    "http_status": null,
-    "last_changed_at": "2026-09-22T10:46:00+00:00",
+    "checked_at": "2026-09-22T11:01:34+00:00",
+    "final_url": "https://testflight.apple.com/join/1SyedSId",
+    "http_status": 200,
+    "last_changed_at": "2026-09-22T11:01:34+00:00",
     "name": "Spotify: Music and Podcasts beta",
-    "reason": "HTTPSConnectionPool(host='testflight.apple.com', port=443): Read timed out. (read timeout=20)",
-    "status": "error",
+    "reason": null,
+    "status": "open",
     "url": "https://testflight.apple.com/join/1SyedSId"
   },
   "https://testflight.apple.com/join/72eyUWVE": {
-    "checked_at": "2026-09-22T10:46:27+00:00",
-    "final_url": null,
-    "http_status": null,
-    "last_changed_at": "2026-09-22T10:46:27+00:00",
+    "checked_at": "2026-09-22T11:01:34+00:00",
+    "final_url": "https://testflight.apple.com/join/72eyUWVE",
+    "http_status": 200,
+    "last_changed_at": "2026-09-22T11:01:34+00:00",
     "name": "Instagram beta (posible)",
-    "reason": "HTTPSConnectionPool(host='testflight.apple.com', port=443): Read timed out. (read timeout=20)",
-    "status": "error",
+    "reason": "Patron encontrado: this beta isn't accepting any new testers right now",
+    "status": "full",
     "url": "https://testflight.apple.com/join/72eyUWVE"
   },
   "https://testflight.apple.com/join/YcmGWyxV": {
-    "checked_at": "2026-09-22T10:46:04+00:00",
+    "checked_at": "2026-09-22T11:01:34+00:00",
     "final_url": "https://testflight.apple.com/join/YcmGWyxV",
     "http_status": 200,
     "last_changed_at": "2026-09-16T09:15:35+00:00",
@@ -30,7 +30,7 @@
     "url": "https://testflight.apple.com/join/YcmGWyxV"
   },
   "https://testflight.apple.com/join/oscYikr0": {
-    "checked_at": "2026-09-22T10:46:02+00:00",
+    "checked_at": "2026-09-22T11:01:34+00:00",
     "final_url": "https://testflight.apple.com/join/oscYikr0",
     "http_status": 200,
     "last_changed_at": "2026-09-17T21:44:15+00:00",
@@ -40,7 +40,7 @@
     "url": "https://testflight.apple.com/join/oscYikr0"
   },
   "https://testflight.apple.com/join/p7hGbZUR": {
-    "checked_at": "2026-09-22T10:46:07+00:00",
+    "checked_at": "2026-09-22T11:01:34+00:00",
     "final_url": "https://testflight.apple.com/join/p7hGbZUR",
     "http_status": 200,
     "last_changed_at": "2026-09-22T00:15:32+00:00",
@@ -50,7 +50,7 @@
     "url": "https://testflight.apple.com/join/p7hGbZUR"
   },
   "https://testflight.apple.com/join/u6iogfd0": {
-    "checked_at": "2026-09-22T10:45:40+00:00",
+    "checked_at": "2026-09-22T11:01:34+00:00",
     "final_url": "https://testflight.apple.com/join/u6iogfd0",
     "http_status": 200,
     "last_changed_at": "2026-09-21T01:30:45+00:00",
